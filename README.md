@@ -13,7 +13,7 @@
 
   <h3>🏆 My Achievements Unlocked</h3>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=USERNAME_GITHUB_KAMU&theme=flat&no-frame=true&no-bg=true&margin-w=4" />
+    <img src="https://github-profile-trophy.vercel.app/?username=sannydays&theme=flat&no-frame=true&no-bg=true&margin-w=4" />
   </a>
 
   <br/>
@@ -21,7 +21,7 @@
 
   <h3>📊 Player Stats</h3>
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB_KAMU&show_icons=true&bg_color=fff0f5&title_color=d63384&text_color=c71585&icon_color=ff69b4&border_color=ffc0cb&hide_border=false" height="180" alt="github stats" />
+    <img src="https://github-readme-stats.vercel.app/api?sannydays&show_icons=true&bg_color=fff0f5&title_color=d63384&text_color=c71585&icon_color=ff69b4&border_color=ffc0cb&hide_border=false" height="180" alt="github stats" />
     
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_GITHUB_KAMU&layout=compact&bg_color=fff0f5&title_color=d63384&text_color=c71585&border_color=ffc0cb&hide_border=false" height="180" alt="top langs" />
   </p>
