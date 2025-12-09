@@ -27,7 +27,8 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <br/><br/>
-  <b>🥣 My Main Ingredients 🥖</b>
+  <h3>🥣 My Main Ingredients 🥖</h3>
+  <h4> a.k.a most used language </h4>
   <br/>
 
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=FFF8E1,5D4037,FFF8E1&height=3&width=100%" />
